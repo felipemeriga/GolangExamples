@@ -1,0 +1,16 @@
+{
+  "name": "Felipe Ramos",
+  "age": 29,
+  "nationality": "Italian",
+  "occupation": "Software Developer",
+  "documents": {
+    "rg": {
+      "name": "Registro Geral",
+      "identification": ""
+    },
+    "cpf": {
+      "name": "CPF",
+      "identification": ""
+    }
+  }
+}
